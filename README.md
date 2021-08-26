@@ -67,5 +67,3 @@ If you want to show your appreciation, you can donate via <a href="https://www.p
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
   
-  
-
