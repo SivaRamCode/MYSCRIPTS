@@ -26,7 +26,7 @@ Run the script and follow the assistant:
 
 <code>wget https://git.io/JEBrP -O Squid3-install.sh && bash Squid3-install.sh</code>
 
-#**CENTOS 7 NSTALL**#
+#**CENTOS 7 Basic INSTALL**# << Not Include Openvpn :sweat_drops:
 
 #App List#
 Squid
@@ -39,6 +39,10 @@ Htop
 Fail2ban
 ddos deflate
 ....
+
+#**CENTOS 7 OPENVPN INSTALL**# :point_right: ***OpenVPN Server With 1000+ User License*** :point_left:
+
+<code>wget https://git.io/JEBcT -O openvpn-install.sh && bash openvpn-install.sh</code>
 
 ##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
 
