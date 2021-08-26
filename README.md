@@ -6,7 +6,7 @@ script / AutoScript to install on vps :heart_eyes:
 My Todo List And Future Updates
 - [:heavy_check_mark:] OpenVPN Install Script
 - [:heavy_check_mark:] CentOS 7 Basic Script
-- [:heavy_check_mark:] :hearts:CentOS 7 OPENVPN 10000+ User Licence Script:hearts:
+- [:heavy_check_mark:] :hearts:CentOS 7 OPENVPN 1000+ User Licence Script:hearts:
 - [:x:] Squid3 Install Script
 - [:x:] Stunne4 Install Script
 - [:x:] Wrap All Together!
