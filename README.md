@@ -44,7 +44,9 @@ Htop
 Fail2ban
 ddos deflate
 ....
+
 ##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
+
 :cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
 #**CENTOS 7 OPENVPN INSTALL**# :point_right: ***OpenVPN Server With 1000+ User License*** :point_left:
