@@ -8,7 +8,7 @@ Installation
 
 Run the script and follow the assistant:
 
-#**OPENVPN INSTALL**
+#**OPENVPN INSTALL**#
 
 <code>wget https://git.io/JEBcT -O openvpn-install.sh && bash openvpn-install.sh</code>
 
