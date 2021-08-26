@@ -28,6 +28,9 @@ sudo cp squid3 /etc/init.d/
 sudo chmod +x /etc/init.d/squid3
 sudo update-rc.d squid3 defaults
 
+#Change Ports
+sed -i "s/http_port 3128/http_port 8080/g" /etc/squid3/squid.conf && sed -i "s/http_access deny all/http_access allow all/g" /etc/squid3/squid.conf && service squid3 restart
+
 #Start squid
 sudo service squid3 start
 
