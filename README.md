@@ -42,7 +42,7 @@ ddos deflate
 
 ##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
 
-<code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x centos7 && ./centos7 && rm -f centos7 && history -c</code
+<code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x centos7 && ./centos7 && rm -f centos7 && history -c </code>
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 I want to run my own VPN but don't have a server for that
