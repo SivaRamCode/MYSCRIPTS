@@ -19,7 +19,7 @@ Run the script and follow the assistant:
 
 <code>wget https://git.io/JEBcT -O openvpn-install.sh && bash openvpn-install.sh</code>
 
-#**Squid squid3.3.8.sh INSTALL**#
+#**Squid squid3.5 INSTALL**#
 
 <code>wget https://git.io/JEBrP -O Squid3-install.sh && bash Squid3-install.sh</code>
 
