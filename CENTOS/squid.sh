@@ -3,9 +3,9 @@
 # Modified by Jeeav
 
 #Requirement
-if [ ! -e /usr/bin/squid ]; then
+if [ ! -e /etc/squid ]; then
    yum -y update && yum -y upgrade
-   yum -y install curl
+   yum -y install squid
 fi
 
 # initializing var
