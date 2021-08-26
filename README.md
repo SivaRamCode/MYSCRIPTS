@@ -4,6 +4,8 @@
 
 
 [fork my repository](https://github.com/SivaRamCode/repository/fork)
+[watch this repo](https://github.com/SivaRamCode/repository/subscription)
+[create issue](https://github.com/SivaRamCode/repository/issues/new)
 
 #:pushpin: Credits goes to everyone involved in this project :thumbsup:#
 
