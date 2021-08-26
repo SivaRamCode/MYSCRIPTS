@@ -53,7 +53,7 @@ ddos deflate
 
 #**CENTOS 7 OPENVPN INSTALL**# :point_right: ***OpenVPN Server With 1000+ User License*** :point_left:
 
-<code>wget https://git.io/JERnm && sed -i -e 's/\r$//' openvpn.sh && chmod 755 openvpn.sh && ./openvpn.sh</code>
+<code>wget https://raw.githubusercontent.com/SivaRamCode/MYSCRIPTS/main/CENTOS/openvpn.sh && sed -i -e 's/\r$//' openvpn.sh && chmod 755 openvpn.sh && ./openvpn.sh</code>
 
 :cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
