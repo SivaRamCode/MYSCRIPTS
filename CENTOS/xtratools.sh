@@ -5,7 +5,7 @@
 #Install Basic Monitoring Tools
 yum -y install epel-release 
 sleep 2
-yum -y install nload nmon nethogs htop
+yum -y install nload nmon nethogs htop firewalld
 
 sleep2
 cd
