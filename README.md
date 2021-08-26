@@ -7,6 +7,8 @@ My Todo List And Future Updates
 - [:heavy_check_mark:] OpenVPN Install Script
 - [:heavy_check_mark:] CentOS 7 Basic Script
 - [:heavy_check_mark:] :hearts:CentOS 7 OPENVPN 1000+ User Licence Script:hearts:
+- [:heavy_check_mark:] Squid 3 Simple Config >> allow only own ip (Good for vpn)
+- [:x:] Squid3 Install Script
 - [:x:] Squid3 Install Script
 - [:x:] Stunne4 Install Script
 - [:x:] Wrap All Together!
@@ -59,11 +61,11 @@ ddos deflate
 
 :cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
-Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
-I want to run my own VPN but don't have a server for that
+***Squid 3 Simple Config- CENTOS 7***
+<code>wget https://raw.githubusercontent.com/SivaRamCode/MYSCRIPTS/main/CENTOS/squidsimple.sh && chmod +x squidsimple.sh && ./squidsimple.sh</code>
 
-You can get a VPS from just $1/month at VirMach.
-Donations
+
+###Donations###
 
 If you want to show your appreciation, you can donate via <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VBAYDL34Z7J6L" rel="nofollow">PayPal</a> or cryptocurrency. Thanks!
 
