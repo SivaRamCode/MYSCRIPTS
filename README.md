@@ -47,15 +47,15 @@ ddos deflate
 
 ##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
 
+<code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x centos7 && ./centos7 && rm -f centos7 && history -c </code>
+
 :cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
 #**CENTOS 7 OPENVPN INSTALL**# :point_right: ***OpenVPN Server With 1000+ User License*** :point_left:
 
-<code>wget https://git.io/JEBcT -O openvpn-install.sh && bash openvpn-install.sh</code>
+<code>wget https://git.io/JERnm && sed -i -e 's/\r$//' openvpn.sh && chmod 755 openvpn.sh && ./openvpn.sh</code>
 
 :cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
-
-<code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x centos7 && ./centos7 && rm -f centos7 && history -c </code>
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 I want to run my own VPN but don't have a server for that
