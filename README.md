@@ -3,9 +3,9 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=a64f5421c394d)
 
 
-[fork my repository](https://github.com/SivaRamCode/repository/fork)
-[watch this repo](https://github.com/SivaRamCode/repository/subscription)
-[create issue](https://github.com/SivaRamCode/repository/issues/new)
+:hearts:[fork my repository](https://github.com/SivaRamCode/repository/fork):hearts:
+[watch this repo](https://github.com/SivaRamCode/repository/subscription):hearts:
+[create issue](https://github.com/SivaRamCode/repository/issues/new):hearts:
 
 #:pushpin: Credits goes to everyone involved in this project :thumbsup:#
 
