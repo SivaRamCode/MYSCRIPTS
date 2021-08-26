@@ -1,5 +1,10 @@
 # MYSCRIPTS
-script to install on vps
+script / AutoScript to install on vps :heart_eyes:
+- [:x:] OpenVPN Install Script
+- [ ] Squid3 Install Script
+- [ ] Stunne4 Install Script
+- [ ] Wrap All Together!
+
 
 OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora.
 
