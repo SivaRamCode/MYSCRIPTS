@@ -27,7 +27,7 @@ http_access allow VPN
 http_access deny all
 http_port 0.0.0.0:8000
 http_port 0.0.0.0:8080
-acl bonv src 0.0.0.0/0.0.0.0
+acl jeeva src 0.0.0.0/0.0.0.0
 no_cache deny jeeva
 dns_nameservers 1.1.1.1 1.0.0.1
 visible_hostname jeeva
