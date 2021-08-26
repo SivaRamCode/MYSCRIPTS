@@ -1,3 +1,5 @@
+#:pushpin: Credits goes to everyone involved in this project :thumbsup:#
+
 # MYSCRIPTS
 script / AutoScript to install on vps :heart_eyes:
 
@@ -9,7 +11,7 @@ My Todo List And Future Updates
 - [:x:] Wrap All Together!
 
 
-OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora.
+For from and edited OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora.
 
 This script will let you set up your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
 Installation
@@ -51,3 +53,6 @@ Donations
 If you want to show your appreciation, you can donate via <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VBAYDL34Z7J6L" rel="nofollow">PayPal</a> or cryptocurrency. Thanks!
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  
+  
+
