@@ -5,7 +5,8 @@ script / AutoScript to install on vps :heart_eyes:
 
 My Todo List And Future Updates
 - [:heavy_check_mark:] OpenVPN Install Script
-- [:heavy_check_mark:] CentOS 7 Script
+- [:heavy_check_mark:] CentOS 7 Basic Script
+- [:heavy_check_mark:] :hearts:CentOS 7 OPENVPN 10000+ User Licence Script:hearts:
 - [:x:] Squid3 Install Script
 - [:x:] Stunne4 Install Script
 - [:x:] Wrap All Together!
@@ -28,6 +29,8 @@ Run the script and follow the assistant:
 
 <code>wget https://git.io/JEBrP -O Squid3-install.sh && bash Squid3-install.sh</code>
 
+:cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
+
 #**CENTOS 7 Basic INSTALL**# << Not Include Openvpn :sweat_drops:
 
 #App List#
@@ -41,12 +44,14 @@ Htop
 Fail2ban
 ddos deflate
 ....
+##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
+:cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
 #**CENTOS 7 OPENVPN INSTALL**# :point_right: ***OpenVPN Server With 1000+ User License*** :point_left:
 
 <code>wget https://git.io/JEBcT -O openvpn-install.sh && bash openvpn-install.sh</code>
 
-##NOTE : CHANGE SSH SQUID PORTS IN SCRIPT AS NEEDED##
+:cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone:
 
 <code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x centos7 && ./centos7 && rm -f centos7 && history -c </code>
 
