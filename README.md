@@ -23,6 +23,12 @@ Run the script and follow the assistant:
 
 <code>wget https://git.io/JEBrP -O Squid3-install.sh && bash Squid3-install.sh</code>
 
+#**CENTOS 7 NSTALL**#
+
+<code>wget https://git.io/JEBrP -O Squid3-install.sh && bash Squid3-install.sh</code>
+
+<code>yum -y update && yum -y install wget && wget https://git.io/JERmn && chmod +x Centos7 && ./Centos7 && rm -f Centos7 && history -c</code
+
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 I want to run my own VPN but don't have a server for that
 
