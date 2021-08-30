@@ -5,7 +5,7 @@
 #Requirement
 if [ ! -e /usr/bin/squid ]; then
     apt-get -y update && apt-get -y upgrade
-	apt-get -y install squid3
+	apt-get -y install squid
 fi
 
 cd
@@ -36,9 +36,9 @@ sed -i '$ i\echo "nameserver 1.0.0.1" >> /etc/resolv.conf' /etc/rc.local
 sleep 2
 cd
 
-# install squid3
-#apt-get -y install squid3
-cat > /etc/squid3/squid.conf <<-END
+# install squid
+#apt-get -y install squid
+cat > /etc/squid/squid.conf <<-END
 acl manager proto cache_object
 acl localhost src 127.0.0.1/32 ::1
 acl to_localhost dst 127.0.0.0/8 0.0.0.0/32 ::1
@@ -65,14 +65,14 @@ http_port 8080
 http_port 8000
 http_port 80
 http_port 3128
-coredump_dir /var/spool/squid3
+coredump_dir /var/spool/squid
 refresh_pattern ^ftp: 1440 20% 10080
 refresh_pattern ^gopher: 1440 0% 1440
 refresh_pattern -i (/cgi-bin/|\?) 0 0% 0
 refresh_pattern . 0 20% 4320
-visible_hostname daybreakersx
+visible_hostname svrcode
 END
-sed -i $MYIP2 /etc/squid3/squid.conf;
+sed -i $MYIP2 /etc/squid/squid.conf;
 service squid3 restart
 
 sleep 2
