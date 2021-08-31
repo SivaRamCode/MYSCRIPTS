@@ -73,7 +73,7 @@ refresh_pattern . 0 20% 4320
 visible_hostname svrcode
 END
 sed -i $MYIP2 /etc/squid/squid.conf;
-service squid3 restart
+service squid restart
 
 sleep 2
 
