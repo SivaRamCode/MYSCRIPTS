@@ -43,7 +43,7 @@ acl Safe_ports port 488
 acl Safe_ports port 591
 acl Safe_ports port 777
 acl CONNECT method CONNECT
-acl SSH dst xxxxxxxxx-xxxxxxxxx/32
+acl SSH dst xxxxxxxxx/32
 http_access allow SSH
 http_access allow manager localhost
 http_access deny manager
