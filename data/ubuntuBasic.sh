@@ -51,7 +51,7 @@ http_access allow localhost
 http_access deny all
 http_port 8080
 http_port 3128
-coredump_dir /var/spool/squid3
+coredump_dir /var/spool/squid
 refresh_pattern ^ftp: 1440 20% 10080
 refresh_pattern ^gopher: 1440 0% 1440
 refresh_pattern -i (/cgi-bin/|\?) 0 0% 0
