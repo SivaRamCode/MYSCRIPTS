@@ -7,7 +7,7 @@ apt update
 apt upgrade -y
 
 #Install Softwares
-apt install stunnel4 squid3 vnstat ufw build-essential fail2ban -y
+apt install stunnel4 squid vnstat ufw build-essential fail2ban -y
 
 # initializing var
 MYIP=`ifconfig eth0 | awk 'NR==2 {print $2}'`
